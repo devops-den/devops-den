@@ -15,7 +15,7 @@ I’m passionate about building scalable, reliable, and secure cloud infrastruct
 
 ### 🌟 Featured Project
 
-#### [AuditHub](![image](https://github.com/user-attachments/assets/09108ba7-2824-489f-91fd-b8d644ddcfe3))
+#### [AuditHub](https://devops-den.github.io/AuditHub/)
 > **AuditHub** is a CLI tool for GitHub repository health checks — making it easy to keep your repos secure, compliant, and in top shape.
 
 ---
